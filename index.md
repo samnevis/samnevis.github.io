@@ -1,17 +1,20 @@
-# samnevis.github.io
+Here is an updated version of the template for your personal website, using the information from your resume. I have adapted the structure to reflect your current skills, projects, and experience.
 
+---
+
+# samnevis.github.io
 
 ![Profile Picture](profile-pic.jpg)
 
 ## About Me
 
-Hi! I'm **Sam Khoshnevis**, a software developer based in New York. I have a passion for building efficient and scalable web applications. In my free time, I enjoy hiking, photography, and playing chess.
+Hi! I'm **Sam Khoshnevis**, a computer science student based in Vancouver, BC. I have a passion for building efficient software solutions and applying artificial intelligence in real-world scenarios. In my free time, I enjoy altruism, games, and puzzles, and I'm always looking to deepen my knowledge of computer science and artificial intelligence.
 
-I have over 5 years of experience working in the software industry, specializing in full-stack development with a focus on modern web technologies like React, Node.js, and Django.
+With a solid foundation in programming and AI, I am eager to take on new challenges and contribute to impactful projects. My work experiences have provided me with valuable skills in software development, tutoring, and leading discussions on effective altruism.
 
-- 📍 Location: New York, USA
-- 🎓 Education: Bachelor's in Computer Science, XYZ University
-- 💼 [LinkedIn](https://www.linkedin.com/in/johndoe) | [GitHub](https://github.com/johndoe) | [Twitter](https://twitter.com/johndoe)
+- 📍 Location: Vancouver, BC, Canada
+- 🎓 Education: B.Sc. in Computer Science (In Progress), University of British Columbia
+- 💼 [GitHub](https://github.com/samnevis)
 
 ---
 
@@ -19,91 +22,103 @@ I have over 5 years of experience working in the software industry, specializing
 
 ### Programming Languages
 
-- **JavaScript**: Expert in ES6+, Node.js, and React.
-- **Python**: Experience with Django, Flask, and data science libraries.
-- **SQL**: Proficient in MySQL, PostgreSQL, and database optimization.
+- **Java**: Proficient with experience in object-oriented programming and data structures.
+- **Python**: Experienced in Flask, API integration, and machine learning with libraries such as scikit-learn.
+- **JavaScript**: Strong foundation in React, Node.js, and front-end development.
 
 ### Tools & Technologies
 
-- **Frontend**: HTML5, CSS3, Sass, Bootstrap, Tailwind, React
-- **Backend**: Node.js, Django, Flask
-- **Version Control**: Git, GitHub, GitLab
-- **DevOps**: Docker, Jenkins, AWS, CI/CD
+- **Frontend**: React, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend**: Flask, Node.js
+- **AI**: Implemented ChatGPT API, sentiment analysis workflows
+- **Mathematics**: Scored 99% in AP Calculus AB, 100% in UBC Math 202, with tutoring experience in math from algebra to calculus.
+- **Public Speaking & Leadership**: Finalist at Provincials for public speaking, led workshops on anti-trafficking and organized fundraisers.
 
 ---
 
 ## Projects
 
-### [Project 1: Personal Portfolio Website](https://github.com/johndoe/portfolio)
+### [Project 1: Tutoring Session Summarizer for Schola](https://github.com/samnevis)
 
-A fully responsive and modern personal portfolio website showcasing my work, built using **React** and **Tailwind CSS**. Features include a dynamic project gallery, blog, and contact form.
+Developed a tutoring session summarizer as part of an internship with BrightChamps. This tool helps academic teams by providing concise summaries of tutoring sessions using the ChatGPT API.
+
+- Technologies: Python, ChatGPT API, Flask
+- Highlights: Increased the efficiency of review processes for academic staff.
+
+---
+
+### [Project 2: 3D Visualization Projects with VR Square](https://github.com/samnevis)
+
+Contributed to Python-based 3D visualization projects during an internship at VR Square. These projects focused on creating interactive visual experiences.
+
+- Technologies: Python, 3D Visualization Tools
+- Highlights: Collaborated with a team to develop cutting-edge visualization solutions.
+
+---
+
+### [Project 3: Personal Portfolio Website](https://github.com/samnevis/portfolio)
+
+A fully responsive personal portfolio website showcasing my work, built using **React** and **Tailwind CSS**.
 
 - Technologies: React, Tailwind CSS, GitHub Pages
-- Highlights: Implemented a dark mode toggle, optimized for performance and SEO
-
----
-
-### [Project 2: Task Manager App](https://github.com/johndoe/task-manager)
-
-A task management app to help users organize their daily tasks with features like task grouping, deadlines, and priority levels. This app was built using **Node.js** and **MongoDB**.
-
-- Technologies: Node.js, Express, MongoDB, Bootstrap
-- Highlights: Real-time collaboration, user authentication, and authorization
-
----
-
-### [Project 3: Machine Learning Model for Predicting Housing Prices](https://github.com/johndoe/housing-prices)
-
-Built a machine learning model using **Python** and **scikit-learn** to predict housing prices based on a dataset of features including location, size, and age of the property.
-
-- Technologies: Python, scikit-learn, pandas, NumPy
-- Highlights: Achieved 95% accuracy on test data
+- Highlights: Showcases my projects and achievements, optimized for performance and accessibility.
 
 ---
 
 ## Experience
 
-### Full-Stack Developer at ABC Corp (2019 - Present)
+### Programming Intern at BrightChamps (June 2024 - August 2024)
 
-- Developed and maintained several high-traffic web applications using **React** and **Node.js**.
-- Collaborated with a team of 10+ developers to build and deploy scalable applications on **AWS**.
-- Optimized database queries and improved application performance, reducing server response times by 30%.
+- Developed a summarizer for tutoring sessions using the ChatGPT API.
+- Improved the workflow of the academic team by automating session summarization.
 
-### Software Engineer at XYZ Tech (2016 - 2019)
+### Programming Intern at VR Square (July 2022 - August 2022)
 
-- Worked on backend development using **Python** and **Django**.
-- Led the migration of the monolithic application to microservices architecture, resulting in a 40% improvement in scalability.
-- Automated deployment processes using **Docker** and **Jenkins**.
+- Worked on Python-based 3D visualization projects.
+- Collaborated with a team to develop engaging visual tools for a variety of applications.
+
+### Private Math Tutor (Oct 2021 - Apr 2022)
+
+- Provided personalized one-on-one tutoring in subjects ranging from elementary math to calculus.
+- Helped students achieve a better understanding of complex mathematical concepts.
 
 ---
 
 ## Education
 
-### XYZ University (2012 - 2016)
-**Bachelor's in Computer Science**
+### University of British Columbia (2023 - Present)
+**Bachelor of Science in Computer Science (In Progress)**
 
-- Relevant Coursework: Algorithms, Data Structures, Web Development, Databases, AI
-- Graduated with Honors
+- Relevant Coursework: Algorithms, Data Structures, AI, Web Development, Databases
+- Achievements: Currently holding a 4.0 GPA
+
+### Sentinel Secondary School (2018 - 2023)
+**Dual High School Diploma - French Immersion & Advanced Placement**
+
+- Achievements: Honour Roll, AP Scholar with Distinction, High School Final Grade Average of 96%
 
 ---
 
 ## Contact Me
 
-I'd love to hear from you! Feel free to reach out via email at **[johndoe@example.com](mailto:johndoe@example.com)** or connect with me on [LinkedIn](https://www.linkedin.com/in/johndoe).
+I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** or connect with me on [GitHub](https://github.com/samnevis).
 
 ---
 
 ## Blog
 
-### [How to Build Scalable Web Applications](https://johndoe.dev/blog/scalable-web-apps)
+### [How to Implement AI in Real-World Scenarios](https://samnevis.dev/blog/implementing-ai)
 
-In this post, I discuss the best practices for building scalable web applications, including database optimization, load balancing, and caching strategies.
+In this post, I explore practical use cases of AI in different industries and how to integrate AI solutions like the ChatGPT API into existing workflows.
 
-### [Why You Should Learn React in 2024](https://johndoe.dev/blog/learn-react-2024)
+### [Why You Should Learn Python for AI Development](https://samnevis.dev/blog/learn-python-ai)
 
-React continues to dominate the front-end world in 2024. In this post, I explore why learning React is still a great investment and how to get started.
+Python is a leading language for AI development. Here, I cover why it’s so essential for building machine learning models and how to get started.
 
 ---
 
-© 2024 John Doe
+© 2024 Sam Khoshnevis
 
+---
+
+This version of your website template is now tailored to fit your actual background, projects, and skills. Let me know if you need any more adjustments!
