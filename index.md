@@ -12,7 +12,7 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 - 👨‍💻 [GitHub](https://github.com/samnevis)
 - 📚 [Personal Blog](https://samnevis2005.substack.com/)
 - 💼 [CV](https://drive.google.com/drive/folders/1oYIg42owsXbuNDtvr0BVpS-hGhrmtQae?usp=sharing)
-- 📧 [samnevis2005@gmail.com](samnevis2005@gmail.com)
+- 📧 [Email](mailto:samnevis2005@gmail.com)
 
 ---
 <!--
