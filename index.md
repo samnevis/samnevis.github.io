@@ -80,7 +80,7 @@ Developed a tutoring session summarizer as part of an internship with BrightCham
 
 ## Contact Me
 
-I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** or connect with me on [GitHub](https://github.com/samnevis).
+I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** 
 
 ---
 <!--
