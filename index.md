@@ -19,13 +19,13 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 ### Programming Languages
 
 - **Java**: Proficient with experience in object-oriented programming and data structures.
-- **Python**: Experienced in Flask, API integration, and machine learning with libraries such as scikit-learn.
-- **JavaScript**: Strong foundation in React, Node.js, and front-end development.
+- **Python**: Experienced in Flask, API integration, and machine learning with libraries such as OpenAI.
+- **JavaScript**: Strong foundation in React and front-end development.
 
 ### Tools & Technologies
 
-- **Frontend**: React, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Backend**: Flask, Node.js
+- **Frontend**: React, HTML, JavaScript
+- **Backend**: Flask
 - **AI**: Implemented ChatGPT API, sentiment analysis workflows
 - **Mathematics**: Scored 99% in AP Calculus AB, 100% in UBC Math 202, with tutoring experience in math from algebra to calculus.
 - **Public Speaking & Leadership**: Finalist at Provincials for public speaking, led workshops on anti-trafficking and organized fundraisers.
