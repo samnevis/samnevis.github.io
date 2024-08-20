@@ -1,6 +1,6 @@
 # Sam Khoshnevis
 
-![Profile Picture](profile-pic.jpg)
+![Profile Picture](grad-photo.jpg)
 
 ## About Me
 
