@@ -1,6 +1,5 @@
 # Sam Khoshnevis
 
-![Picture](assets/img/headshot_photo_example.png)
 
 ## About Me
 
