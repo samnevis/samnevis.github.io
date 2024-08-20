@@ -43,24 +43,8 @@ Developed a tutoring session summarizer as part of an internship with BrightCham
 
 ---
 
-### [Project 2: 3D Visualization Projects with VR Square](https://github.com/samnevis)
 
-Contributed to Python-based 3D visualization projects during an internship at VR Square. These projects focused on creating interactive visual experiences.
-
-- Technologies: Python, 3D Visualization Tools
-- Highlights: Collaborated with a team to develop cutting-edge visualization solutions.
-
----
-
-### [Project 3: Personal Portfolio Website](https://github.com/samnevis/portfolio)
-
-A fully responsive personal portfolio website showcasing my work, built using **React** and **Tailwind CSS**.
-
-- Technologies: React, Tailwind CSS, GitHub Pages
-- Highlights: Showcases my projects and achievements, optimized for performance and accessibility.
-
----
-
+<!--
 ## Experience
 
 ### Programming Intern at BrightChamps (June 2024 - August 2024)
@@ -77,7 +61,7 @@ A fully responsive personal portfolio website showcasing my work, built using **
 
 - Provided personalized one-on-one tutoring in subjects ranging from elementary math to calculus.
 - Helped students achieve a better understanding of complex mathematical concepts.
-
+-->
 ---
 
 ## Education
@@ -117,4 +101,3 @@ Python is a leading language for AI development. Here, I cover why it’s so ess
 
 ---
 
-This version of your website template is now tailored to fit your actual background, projects, and skills. Let me know if you need any more adjustments!
