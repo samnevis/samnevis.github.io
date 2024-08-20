@@ -43,8 +43,6 @@ Developed a tutoring session summarizer as part of an internship with BrightCham
 
 ---
 
-
-<!--
 ## Experience
 
 ### Programming Intern at BrightChamps (June 2024 - August 2024)
@@ -61,8 +59,8 @@ Developed a tutoring session summarizer as part of an internship with BrightCham
 
 - Provided personalized one-on-one tutoring in subjects ranging from elementary math to calculus.
 - Helped students achieve a better understanding of complex mathematical concepts.
--->
 ---
+
 
 ## Education
 
@@ -84,7 +82,7 @@ Developed a tutoring session summarizer as part of an internship with BrightCham
 I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** or connect with me on [GitHub](https://github.com/samnevis).
 
 ---
-
+<!--
 ## Blog
 
 ### [How to Implement AI in Real-World Scenarios](https://samnevis.dev/blog/implementing-ai)
@@ -94,8 +92,8 @@ In this post, I explore practical use cases of AI in different industries and ho
 ### [Why You Should Learn Python for AI Development](https://samnevis.dev/blog/learn-python-ai)
 
 Python is a leading language for AI development. Here, I cover why it’s so essential for building machine learning models and how to get started.
-
 ---
+-->
 
 © 2024 Sam Khoshnevis
 
