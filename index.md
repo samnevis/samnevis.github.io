@@ -1,78 +1,36 @@
 # Sam Khoshnevis
 
-**Address:** 1006 Kennedy Ave, North Vancouver, BC, V7R 1L7, Canada  
-**Email:** [samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)  
-**Mobile:** +1 (604) 317-7592  
-**LinkedIn:** [sam-khoshnevis-0a0972242](https://www.linkedin.com/in/sam-khoshnevis-0a0972242)  
-**GitHub:** [samnevis](https://github.com/samnevis)
+![Picture](assets/img/headshot_photo_example.png)
 
-## Objective
+## About Me
 
-Motivated and confident first-year Computer Science student with a strong foundation in mathematics, programming, AI, and leadership. I seek opportunities to apply and further develop my technical and organizational skills in a challenging and dynamic environment.
+Hi! I'm **Sam Khoshnevis**, a computer science student based in Vancouver, BC. I have a passion for building efficient software solutions and applying artificial intelligence in real-world scenarios. In my free time, I enjoy altruism, games, and puzzles, and I'm always looking to deepen my knowledge of computer science and artificial intelligence.
 
-## Education
+With a solid foundation in programming and AI, I am eager to take on new challenges and contribute to impactful projects. My work experiences have provided me with valuable skills in software development, tutoring, and leading discussions on effective altruism.
 
-**B.Sc. Computer Science (In Progress)**  
-*University of British Columbia, Vancouver, BC*  
-*Sept 2023 – Present*
+- 📍 Location: Vancouver, BC, Canada
+- 🎓 Education: B.Sc. in Computer Science (In Progress), University of British Columbia
+- 💼 [GitHub](https://github.com/samnevis)
 
-**Dual High School Diploma – French Immersion & Advanced Placement**  
-*Sentinel Secondary School, West Vancouver, BC*  
-*Sept 2018 – June 2023*
-
+---
+<!--
 ## Skills
 
-- **Computer Science:** Proficient in Java, Python, JavaScript. Experience with React front-end, Flask back-end, and API integration. Competent in problem-solving, algorithms, and data structures through internships, Harvard's CS50, AP Computer Science A, and UBC courses (CPSC 110 & CPSC 121).
-- **AI:** Implemented ChatGPT API and sentiment analysis workflows to solve professional problems at Schola/BrightChamps.
-- **Mathematics:** Scored 99% in AP Calculus AB and 100% in UBC's Math 202. Experience tutoring students in subjects ranging from algebra to calculus.
-- **Public Speaking:** Finalist at Provincials for public speaking; 1st place winner at Magnum Opus speech competition held at Carnegie Hall. Experience with debate through competitions, adjudication, and workshop leading with FDT and Pacific Links.
-- **Leadership:** Led workshops in anti-trafficking, organized fundraisers, served as middle school valedictorian. Currently leading UBC's Effective Altruism group.
+### Programming Languages
 
-## Work Experience
+- **Java**: Proficient with experience in object-oriented programming and data structures.
+- **Python**: Experienced in Flask, API integration, and machine learning with libraries such as OpenAI.
+- **JavaScript**: Strong foundation in React and front-end development.
 
-**Programming Intern**  
-*BrightChamps, Vancouver, BC*  
-*June 2024 – August 2024*  
-Developed a tutoring session summarizer for Schola's academic team [See Github](https://github.com/samnevis).
+### Tools & Technologies
 
-**Programming Intern**  
-*VR Square, Vancouver, BC*  
-*July 2022 – August 2022*  
-Collaborated on Python-based 3D visualization projects.
+- **Frontend**: React, HTML, JavaScript
+- **Backend**: Flask
+- **AI**: Implemented ChatGPT API, sentiment analysis workflows
+- **Mathematics**: Scored 99% in AP Calculus AB, 100% in UBC Math 202, with tutoring experience in math from algebra to calculus.
+- **Public Speaking & Leadership**: Finalist at Provincials for public speaking, led workshops on anti-trafficking and organized fundraisers.
 
-**Private Math Tutor**  
-*Self-employed, Vancouver, BC*  
-*Oct 2021 – Apr 2022*  
-Provided one-on-one tutoring to students in subjects ranging from elementary math to calculus.
-
-## Achievements
-
-- **Dec 2023:** Currently holding a 4.0 GPA at UBC.
-- **June 2023:** High School Honour Roll with a 96% final grade average.
-- **April 2023:** Raised \$700, equivalent to 700 Vitamin A supplements for the Helen Keller Supplementation Program.
-- **April 2023:** AP Scholar with Distinction.
-- **Dec 2020:** Preliminary SAT Letter of Commendation for Outstanding Performance.
-
-## Extra-Curricular Activities
-
-**Lead Organizer**  
-*UBC Effective Altruism, Vancouver, BC*  
-*Sept 2023 – Present*  
-Lead philosophy, career, and charity discussions.
-
-**Active Member**  
-*Vietnam Education Society, Vancouver, BC*  
-*Jan 2014 – Present*  
-Raised over \$10,000 from birthdays, school, and activities. Emcee and representative at 50-200 person galas. Gathered school supplies for VES-built schools.
-
-**Active Member**  
-*Pacific Links Foundation, Vietnam*  
-*Jan 2016 – Present*  
-Three-time summer camp volunteer / Health and culture workshop leader / Debate workshop leader / Debate judge.
-
-## Hobbies and Interests
-
-Altruism, sports, games, puzzles, computer science, and artificial intelligence.
+---
 
 ## Projects
 
@@ -80,5 +38,63 @@ Altruism, sports, games, puzzles, computer science, and artificial intelligence.
 
 Developed a tutoring session summarizer as part of an internship with BrightChamps. This tool helps academic teams by providing concise summaries of tutoring sessions using the ChatGPT API.
 
-- **Technologies:** Python, ChatGPT API, Flask
-- **Highlights:** Increased the efficiency of review processes for academic staff.
+- Technologies: Python, ChatGPT API, Flask
+- Highlights: Increased the efficiency of review processes for academic staff.
+
+---
+
+## Experience
+
+### Programming Intern at BrightChamps (June 2024 - August 2024)
+
+- Developed a summarizer for tutoring sessions using the ChatGPT API.
+- Improved the workflow of the academic team by automating session summarization.
+
+### Programming Intern at VR Square (July 2022 - August 2022)
+
+- Worked on Python-based 3D visualization projects.
+- Collaborated with a team to develop engaging visual tools for a variety of applications.
+
+### Private Math Tutor (Oct 2021 - Apr 2022)
+
+- Provided personalized one-on-one tutoring in subjects ranging from elementary math to calculus.
+- Helped students achieve a better understanding of complex mathematical concepts.
+---
+
+
+## Education
+
+### University of British Columbia (2023 - Present)
+**Bachelor of Science in Computer Science (In Progress)**
+
+- Relevant Coursework: Algorithms, Data Structures, AI, Web Development, Databases
+- Achievements: Currently holding a 4.0 GPA
+
+### Sentinel Secondary School (2018 - 2023)
+**Dual High School Diploma - French Immersion & Advanced Placement**
+
+- Achievements: Honour Roll, AP Scholar with Distinction, High School Final Grade Average of 96%
+---
+-->
+
+## Contact Me
+
+I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** or connect with me on [GitHub](https://github.com/samnevis).
+
+---
+<!--
+## Blog
+
+### [How to Implement AI in Real-World Scenarios](https://samnevis.dev/blog/implementing-ai)
+
+In this post, I explore practical use cases of AI in different industries and how to integrate AI solutions like the ChatGPT API into existing workflows.
+
+### [Why You Should Learn Python for AI Development](https://samnevis.dev/blog/learn-python-ai)
+
+Python is a leading language for AI development. Here, I cover why it’s so essential for building machine learning models and how to get started.
+---
+-->
+
+© 2024 Sam Khoshnevis
+
+---
