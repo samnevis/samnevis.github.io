@@ -1,8 +1,4 @@
-Here is an updated version of the template for your personal website, using the information from your resume. I have adapted the structure to reflect your current skills, projects, and experience.
-
----
-
-# samnevis.github.io
+# Sam Khoshnevis
 
 ![Profile Picture](profile-pic.jpg)
 
