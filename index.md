@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi! I'm **John Doe**, a software developer based in New York. I have a passion for building efficient and scalable web applications. In my free time, I enjoy hiking, photography, and playing chess.
+Hi! I'm **Sam Khoshnevis**, a software developer based in New York. I have a passion for building efficient and scalable web applications. In my free time, I enjoy hiking, photography, and playing chess.
 
 I have over 5 years of experience working in the software industry, specializing in full-stack development with a focus on modern web technologies like React, Node.js, and Django.
 
