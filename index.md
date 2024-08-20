@@ -9,8 +9,10 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 
 - 📍 Location: Vancouver, BC, Canada
 - 🎓 Education: B.Sc. in Computer Science (In Progress), University of British Columbia
-- 💼 [GitHub](https://github.com/samnevis)
+- 👨‍💻 [GitHub](https://github.com/samnevis)
 - 📚 [Personal Blog](https://samnevis2005.substack.com/)
+- 💼 [CV](https://drive.google.com/drive/folders/1oYIg42owsXbuNDtvr0BVpS-hGhrmtQae?usp=sharing)
+- 
 
 ---
 <!--
