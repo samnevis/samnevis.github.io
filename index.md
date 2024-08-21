@@ -22,7 +22,10 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 In pursuit of helping others as much as I can, I have become very engaged with Effective Altruism (EA). In highschool, I have fundraised for Hellen Keller's Vitamin A Supplementation program and I am currently the lead organizer of UBC Effective Altruism. Come check out EA UBC and Vancouver on our combined [discord](https://discord.gg/r2ntupNFpF)
 ![image](https://github.com/user-attachments/assets/3ec9afa1-eb25-4c69-8799-b76811e750ea)
 
+## CS/AI
 
+In pursuit of helping others as much as I can, I have become very engaged with Effective Altruism (EA). In highschool, I have fundraised for Hellen Keller's Vitamin A Supplementation program and I am currently the lead organizer of UBC Effective Altruism. Come check out EA UBC and Vancouver on our combined [discord](https://discord.gg/r2ntupNFpF)
+![image](https://github.com/user-attachments/assets/3ec9afa1-eb25-4c69-8799-b76811e750ea)
 
 ## Contact Me
 
