@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sam Khoshnevis
-show_downloads: true
+# show_downloads: true
 description: Starting this new website :D
 logo: /assets/img/headshot_circle_example.png
