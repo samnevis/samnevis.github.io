@@ -10,10 +10,11 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 
 - 📍 Location: Vancouver, BC, Canada
 - 🎓 Education: B.Sc. in Computer Science (In Progress), University of British Columbia
+- 📧 samnevis2005@gmail.com
 - 👨‍💻 [GitHub](https://github.com/samnevis)
 - 📚 [Personal Blog](https://samnevis2005.substack.com/)
 - 💼 [CV](https://drive.google.com/drive/folders/1oYIg42owsXbuNDtvr0BVpS-hGhrmtQae?usp=sharing)
-- 📧 [samnevis2005@gmail.com](samnevis2005@gmail.com)
+
 
 ---
 
@@ -32,7 +33,7 @@ I am pursuing a B.Sc. in computer science. Afterwards, I am thinking of either b
 
 ## Contact Me
 
-I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** 
+I'd love to hear from you! Feel free to reach out via email at samnevis2005@gmail.com 
 
 
 ---
