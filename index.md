@@ -20,11 +20,13 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 ## Effective Altruism
 
 In pursuit of helping others as much as I can, I have become very engaged with Effective Altruism (EA). In highschool, I have fundraised for Hellen Keller's Vitamin A Supplementation program and I am currently the lead organizer of UBC Effective Altruism. Come check out EA UBC and Vancouver on our combined [discord](https://discord.gg/r2ntupNFpF)
+
 ![image](https://github.com/user-attachments/assets/3ec9afa1-eb25-4c69-8799-b76811e750ea)
 
 ## CS/AI
 
 I am pursuing a B.Sc. in computer science. Afterwards, I am thinking of either becoming a software engineer or pursing a career in AI research. I love to code and learn about technical machine learning. In my free time, I like to think about the future of the world with regards to AI and I regularly keep up with recent tech developments.
+
 ![image](https://github.com/user-attachments/assets/07d4be30-7dfc-4f29-a707-206477da0cc9)
 
 
