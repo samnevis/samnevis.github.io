@@ -31,6 +31,8 @@ In pursuit of helping others as much as I can, I have become very engaged with E
 
 I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** 
 
+![image](https://github.com/user-attachments/assets/3ec9afa1-eb25-4c69-8799-b76811e750ea)
+
 ---
 
 © 2024 Sam Khoshnevis
