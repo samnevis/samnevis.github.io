@@ -21,6 +21,7 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 
 In pursuit of helping others as much as I can, I have become very engaged with Effective Altruism (EA). In highschool, I have fundraised for Hellen Keller's Vitamin A Supplementation program and I am currently the lead organizer of UBC Effective Altruism. Come check out EA UBC and Vancouver on our combined [discord](https://discord.gg/r2ntupNFpF)
 
+
 ## Contact Me
 
 I'd love to hear from you! Feel free to reach out via email at **[samnevis2005@gmail.com](mailto:samnevis2005@gmail.com)** 
