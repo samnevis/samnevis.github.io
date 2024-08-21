@@ -12,6 +12,7 @@ With a solid foundation in programming and AI, I am eager to take on new challen
 - 🎓 Education: B.Sc. in Computer Science (In Progress), University of British Columbia
 - 📧 samnevis2005@gmail.com
 - 👨‍💻 [GitHub](https://github.com/samnevis)
+- 🧑‍💼[LinkedIn](https://www.linkedin.com/in/sam-khoshnevis-0a0972242)
 - 📚 [Personal Blog](https://samnevis2005.substack.com/)
 - 💼 [CV](https://drive.google.com/drive/folders/1oYIg42owsXbuNDtvr0BVpS-hGhrmtQae?usp=sharing)
 
